@@ -11,7 +11,7 @@ I'm happy to accept more configurability and features. PR welcome! What you see 
 
 #### Main site - login
 
-<img src="https://github.com/CCTSAI-Tony/GitHubSocial/blob/master/login" width="532">
+<img src="https://github.com/CCTSAI-Tony/GitHubSocial/blob/master/login.png" width="532">
 
 #### Dashboard
 
