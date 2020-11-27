@@ -3,7 +3,7 @@
 	<br>
 </div>
 
-This web app let you connect to other developer's github profile, create your own profile page and share posts to others.[LINK](https://polar-depths-16631.herokuapp.com/).
+This web app let you connect with other developer's github profile, create your own profile page and share posts to others. [LINK](https://polar-depths-16631.herokuapp.com/).
 
 I'm happy to accept more configurability and features. PR welcome! What you see here is just what I needed for my own apps.
 
